@@ -7,8 +7,10 @@ sites:
     url: https://www.neogoma.com
   - name: Ar3a website
     url: https://ar3a.app
-  - name: Stardust Dashboard/API
+  - name: Stardust Dashboard
     url: https://stardust.neogoma.com
+  - name: Stardust API
+    url: https://stardust.neogoma.com/current_version
   - name: Stardust relocation services
     url: https://dagobah.neogoma.com
   
