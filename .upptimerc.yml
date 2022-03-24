@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.neogoma.com
   #baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://stardust.neogoma.com/img/logo.png
   name: Neogoma's status page
   introTitle: "Status of all public Neogoma's services"
   introMessage: This is the actual status of all the neogoma services
