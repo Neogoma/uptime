@@ -12,7 +12,7 @@ sites:
   - name: Stardust API
     url: https://stardust.neogoma.com/current_version
   - name: Stardust relocation services
-    url: https://dagobah.neogoma.com
+    url: https://dagobah.neogoma.com/current_version
   
 
 status-website:
