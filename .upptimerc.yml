@@ -5,8 +5,6 @@ repo: uptime # The name of this repository
 sites:
   - name: Neogoma Website
     url: https://www.neogoma.com
-  - name: Ar3a website
-    url: https://ar3a.app
   - name: Stardust Dashboard
     url: https://stardust.neogoma.com
   - name: Stardust API
