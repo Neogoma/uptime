@@ -6,11 +6,11 @@ sites:
   - name: Neogoma Website
     url: https://www.neogoma.com
   - name: Stardust Dashboard
-    url: https://stardust.neogoma.com
-  - name: Stardust API
     url: https://stardust.neogoma.com/current_version
+  - name: Stardust API
+    url: https://stardust.neogoma.com/api/current_version
   - name: Stardust relocation services
-    url: https://dagobah.neogoma.com/current_version
+    url: https://dagobah.neogoma.com/api/current_version
   
 
 status-website:
