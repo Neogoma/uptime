@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 513,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 430,
+    "timeDay": 518,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
-    "time": 276,
-    "timeDay": 278,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 283,
+    "timeDay": 326,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2022-03-28": 16
     }
@@ -48,31 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 106,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "time": 96,
+    "timeDay": 111,
+    "timeWeek": 96,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Stardust relocation services",
+    "name": "Stardust relocation service",
     "url": "https://dagobah.neogoma.com/api/current_version",
     "icon": "https://favicons.githubusercontent.com/dagobah.neogoma.com",
-    "slug": "stardust-relocation-services",
+    "slug": "stardust-relocation-service",
     "status": "up",
-    "uptime": "92.47%",
-    "uptimeDay": "64.73%",
-    "uptimeWeek": "92.47%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "92.47%",
-    "time": 359,
-    "timeDay": 333,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
-    "dailyMinutesDown": {
-      "2022-03-28": 508
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
+    "dailyMinutesDown": {}
   }
 ]
