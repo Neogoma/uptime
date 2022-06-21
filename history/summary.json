@@ -22,9 +22,9 @@
     "url": "https://stardust.neogoma.com/current_version",
     "icon": "https://favicons.githubusercontent.com/stardust.neogoma.com",
     "slug": "stardust-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 272,
     "timeYear": 296,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-03-28": 16
     }
   },
@@ -43,11 +44,11 @@
     "icon": "https://favicons.githubusercontent.com/lothal.neogoma.com",
     "slug": "stardust-api",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.74%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 217,
     "timeDay": 146,
     "timeWeek": 210,
