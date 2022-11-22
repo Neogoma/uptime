@@ -70,19 +70,19 @@
     "url": "https://dagobah.neogoma.com/api/current_version",
     "icon": "https://icons.duckduckgo.com/ip3/dagobah.neogoma.com.ico",
     "slug": "stardust-relocation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 351,
-    "timeWeek": 320,
-    "timeMonth": 318,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.97%",
+    "time": 280,
+    "timeDay": 321,
+    "timeWeek": 309,
+    "timeMonth": 315,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 97
     }
   }
 ]
