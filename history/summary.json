@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 514,
-    "timeDay": 463,
-    "timeWeek": 461,
-    "timeMonth": 482,
+    "timeDay": 448,
+    "timeWeek": 458,
+    "timeMonth": 480,
     "timeYear": 514,
     "dailyMinutesDown": {
       "2022-11-22": 57
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 311,
-    "timeDay": 401,
-    "timeWeek": 343,
-    "timeMonth": 325,
+    "timeDay": 348,
+    "timeWeek": 337,
+    "timeMonth": 324,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2022-07-02": 39,
@@ -56,7 +56,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 287,
-    "timeDay": 334,
+    "timeDay": 329,
     "timeWeek": 323,
     "timeMonth": 331,
     "timeYear": 287,
@@ -77,13 +77,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 290,
-    "timeDay": 311,
-    "timeWeek": 311,
-    "timeMonth": 319,
+    "timeDay": 322,
+    "timeWeek": 314,
+    "timeMonth": 320,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2022-11-23": 37,
       "2022-11-22": 97
     }
+  },
+  {
+    "name": "Are4 API",
+    "url": "https://api.are4.world/public/map",
+    "icon": "https://icons.duckduckgo.com/ip3/api.are4.world.ico",
+    "slug": "are4-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1490,
+    "timeDay": 1490,
+    "timeWeek": 1490,
+    "timeMonth": 1490,
+    "timeYear": 1490,
+    "dailyMinutesDown": {}
   }
 ]
