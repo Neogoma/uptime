@@ -50,9 +50,9 @@
     "url": "https://lothal.neogoma.com/api/current_version",
     "icon": "https://icons.duckduckgo.com/ip3/lothal.neogoma.com.ico",
     "slug": "stardust-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -62,6 +62,7 @@
     "timeMonth": 245,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2022-05-30": 198,
       "2022-05-29": 794
     }
