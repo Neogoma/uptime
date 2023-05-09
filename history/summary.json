@@ -93,19 +93,19 @@
     "url": "https://api.are4.world/public/map",
     "icon": "https://icons.duckduckgo.com/ip3/api.are4.world.ico",
     "slug": "are4-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2906,
-    "timeDay": 2826,
-    "timeWeek": 4122,
-    "timeMonth": 3012,
-    "timeYear": 2906,
+    "time": 3097,
+    "timeDay": 8656,
+    "timeWeek": 6324,
+    "timeMonth": 3713,
+    "timeYear": 3097,
     "dailyMinutesDown": {
-      "2023-05-09": 0
+      "2023-05-09": 2
     }
   }
 ]
