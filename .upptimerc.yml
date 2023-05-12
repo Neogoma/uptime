@@ -12,7 +12,7 @@ sites:
   - name: Stardust relocation
     url: https://dagobah.neogoma.com/api/current_version
   - name: Are4 API
-    url: https://api.are4.world/public/map  
+    url: https://api.are4.world/version
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
