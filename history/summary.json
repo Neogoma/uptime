@@ -11,9 +11,9 @@
     "uptimeMonth": "97.68%",
     "uptimeYear": "99.78%",
     "time": 506,
-    "timeDay": 492,
-    "timeWeek": 460,
-    "timeMonth": 443,
+    "timeDay": 562,
+    "timeWeek": 457,
+    "timeMonth": 444,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2023-05-29": 48,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 309,
-    "timeDay": 133,
+    "timeDay": 339,
     "timeWeek": 261,
-    "timeMonth": 300,
+    "timeMonth": 301,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2022-07-02": 39,
@@ -58,15 +58,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 276,
-    "timeDay": 101,
-    "timeWeek": 203,
-    "timeMonth": 259,
+    "timeDay": 326,
+    "timeWeek": 206,
+    "timeMonth": 260,
     "timeYear": 288,
-    "dailyMinutesDown": {
-      "2022-05-30": 198
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stardust relocation",
@@ -80,9 +78,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.95%",
     "time": 277,
-    "timeDay": 129,
-    "timeWeek": 259,
-    "timeMonth": 272,
+    "timeDay": 314,
+    "timeWeek": 256,
+    "timeMonth": 273,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2023-05-08": 121,
@@ -101,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
-    "time": 3224,
-    "timeDay": 236,
-    "timeWeek": 324,
-    "timeMonth": 4446,
-    "timeYear": 3224,
+    "time": 3205,
+    "timeDay": 328,
+    "timeWeek": 304,
+    "timeMonth": 4360,
+    "timeYear": 3205,
     "dailyMinutesDown": {
       "2023-05-11": 63,
       "2023-05-09": 2
