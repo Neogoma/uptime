@@ -89,9 +89,9 @@
     "slug": "are4-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1774,
     "timeDay": 268,
@@ -99,7 +99,6 @@
     "timeMonth": 276,
     "timeYear": 1774,
     "dailyMinutesDown": {
-      "2023-10-18": 6,
       "2023-05-11": 63,
       "2023-05-09": 2
     }
