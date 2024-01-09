@@ -1,7 +1,7 @@
 url: https://dagobah.neogoma.com/api/current_version
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-09T09:38:21.972Z
+status: up
+code: 200
+responseTime: 774
+lastUpdated: 2024-01-09T09:42:57.092Z
 startTime: 2022-03-29T02:01:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
